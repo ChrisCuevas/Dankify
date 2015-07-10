@@ -13,7 +13,7 @@
 		{
 			"matches": ["http://*/*"],
 			"js": ["dank.js"],
-			"run_at": "document_start"
+			"run_at": "document_end"
 		}
 	]
 }
