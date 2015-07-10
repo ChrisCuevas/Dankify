@@ -9,7 +9,7 @@
 	"content_scripts": [
 		{
 			"matches": ["http://*/*"],
-			"js": ["myscript.js],
+			"js": ["dank.js],
 			"run_at": "document_start"
 		}
 	]
