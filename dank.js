@@ -12,3 +12,4 @@ document.title = document.title.replace(new RegExp("awesome", "g"), "dank");
 document.title = document.title.replace(new RegExp("amazing", "g"), "dank");
 document.title = document.title.replace(new RegExp("hip", "g"), "dank");
 document.title = document.title.replace(new RegExp("sweet", "g"), "dank");
+document.title = document.title.replace(new RegExp("Awesome", "g"), "dank");
